@@ -143,12 +143,12 @@
 		517.57,119.471 517.57,119.909 520.637,119.909 520.637,119.471 	"/>
 	<path fill="#FFFFFF" d="M519.758,115.137c0,0.395-0.32,0.715-0.715,0.715s-0.715-0.32-0.715-0.715c0-0.394,0.32-0.714,0.715-0.714
 		S519.758,114.743,519.758,115.137"/>
-	<path fill="#00AEEF" d="M539.746,314.022v2.85c0,0.241,0.197,0.439,0.439,0.439h2.848h2.848c0.242,0,0.439-0.198,0.439-0.439v-2.85
+	<path fill="#00AEEF" d="M542.746,314.022v2.85c0,0.241,0.197,0.439,0.439,0.439h2.848h2.848c0.242,0,0.439-0.198,0.439-0.439v-2.85
 		v-2.848c0-0.242-0.197-0.441-0.439-0.441h-2.848h-2.848c-0.242,0-0.439,0.199-0.439,0.441V314.022z"/>
-	<polygon fill="#FFFFFF" points="543.691,316.23 543.691,312.833 541.498,312.833 541.498,313.272 542.375,313.272 542.375,316.23 
-		541.498,316.23 541.498,316.669 544.566,316.669 544.566,316.23 	"/>
-	<path fill="#FFFFFF" d="M543.686,311.897c0,0.395-0.32,0.715-0.715,0.715s-0.715-0.32-0.715-0.715s0.32-0.715,0.715-0.715
-		S543.686,311.503,543.686,311.897"/>
+	<polygon fill="#FFFFFF" points="546.691,316.23 546.691,312.833 544.498,312.833 544.498,313.272 545.375,313.272 545.375,316.23 
+		544.498,316.23 544.498,316.669 547.566,316.669 547.566,316.23 	"/>
+	<path fill="#FFFFFF" d="M546.686,311.897c0,0.395-0.32,0.715-0.715,0.715s-0.715-0.32-0.715-0.715s0.32-0.715,0.715-0.715
+		S546.686,311.503,546.686,311.897"/>
 	<path fill="#00AEEF" d="M510.914,188.085v2.847c0,0.243,0.197,0.44,0.439,0.44h2.848h2.85c0.24,0,0.438-0.198,0.438-0.44v-2.847
 		v-2.849c0-0.243-0.197-0.44-0.438-0.44h-2.85h-2.848c-0.242,0-0.439,0.197-0.439,0.44V188.085z"/>
 	<path fill="#FFFFFF" d="M516.965,188.085c0,1.523-1.238,2.762-2.764,2.762c-1.523,0-2.764-1.239-2.764-2.762
@@ -160,17 +160,13 @@
 	<text transform="matrix(1 0 0 1 503.3828 200.3135)" font-family="'OpenSans'" font-size="7.68">T-Centralen</text>
 	<text transform="matrix(1 0 0 1 582.6172 209.5166)" font-family="'OpenSans'" font-size="7.68">Kungsträdgården</text>
 	<text transform="matrix(1 0 0 1 503.6875 228.8369)" font-family="'OpenSans'" font-size="5.76">Gamla stan</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 363.7383 275.2129)" font-family="'SLGothicText-Bold'" font-size="5.76">Hornstull</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 394.9531 274.9121)" font-family="'SLGothicText-Bold'" font-size="5.76">Zink</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 402.7832 267.0898)" font-family="'SLGothicText-Bold'" font-size="5.76">ensdamm</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 425.2539 275.2109)" font-family="'SLGothicText-Bold'" font-size="5.76">Maria</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 435.7148 264.7578)" font-family="'SLGothicText-Bold'" font-size="5.76">torget</text>
-	<text transform="matrix(1 0 0 1 238.0396 359.8916)" font-family="'SLGothicText-Bold'" font-size="5.76">T</text>
-	<text transform="matrix(1 0 0 1 240.8286 359.8916)" font-family="'SLGothicText-Bold'" font-size="5.76">elefonplan</text>
-	<text transform="matrix(1 0 0 1 274.5864 324.1494)" font-family="'SLGothicText-Bold'" font-size="5.76">Midsommarkransen</text>
-	<text transform="matrix(1 0 0 1 202.2271 395.7979)" font-family="'SLGothicText-Bold'" font-size="5.76">Hägerstensåsen</text>
-	<text transform="matrix(1 0 0 1 166.7583 431.3369)" font-family="'SLGothicText-Bold'" font-size="5.76">V</text>
-	<text transform="matrix(1 0 0 1 170.2505 431.3369)" font-family="'SLGothicText-Bold'" font-size="5.76">ästertorp</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 363.7383 275.2129)" font-family="'OpenSans'" font-size="5.76">Hornstull</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 394.9531 274.9121)" font-family="'OpenSans'" font-size="5.76">Zinkensdamm</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 425.2539 275.2109)" font-family="'OpenSans'" font-size="5.76">Mariatorget</text>
+	<text transform="matrix(1 0 0 1 238.0396 359.8916)" font-family="'OpenSans'" font-size="5.76">Telefonplan</text>
+	<text transform="matrix(1 0 0 1 274.5864 324.1494)" font-family="'OpenSans'" font-size="5.76">Midsommarkransen</text>
+	<text transform="matrix(1 0 0 1 202.2271 395.7979)" font-family="'OpenSans'" font-size="5.76">Hägerstensåsen</text>
+	<text transform="matrix(1 0 0 1 166.7583 431.3369)" font-family="'OpenSans'" font-size="5.76">Västertorp</text>
 	<text transform="matrix(1 0 0 1 504.6328 245.7666)" font-family="'OpenSans'" font-size="7.424">Slussen</text>
 	<text transform="matrix(1 0 0 1 503.6875 282.3994)" font-family="'OpenSans'" font-size="5.76">Medborgarplatsen</text>
 	<text transform="matrix(1 0 0 1 503.6875 297.626)" font-family="'OpenSans'" font-size="5.76">Skanstull</text>
@@ -223,7 +219,7 @@
 	<text transform="matrix(1 0 0 1 145.6802 16.5869)" font-family="'OpenSans'" font-size="7.68">Hjulsta</text>
 	<text transform="matrix(1 0 0 1 174.9614 188.5791)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T17</text>
 	<text transform="matrix(1 0 0 1 175.0083 178.3369)" font-family="'OpenSans'" font-size="7.68">Åkeshov</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 314.3091 274.5537)" font-family="'SLGothicText-Bold'" font-size="5.76">Liljeholmen</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 314.3091 274.5537)" font-family="'OpenSans'" font-size="5.76">Liljeholmen</text>
 	<text transform="matrix(1 0 0 1 531.4219 358.1338)" font-family="'OpenSans'" font-size="5.76">Hammarbyhöjden</text>
 	<text transform="matrix(1 0 0 1 556.7344 382.3994)" font-family="'OpenSans'" font-size="5.76">Björkhagen</text>
 	<text transform="matrix(1 0 0 1 612.4844 438.9854)" font-family="'OpenSans'" font-size="5.76">Bagarmossen</text>
@@ -232,26 +228,22 @@
 	<text transform="matrix(1 0 0 1 502.3359 49.7979)" font-family="'OpenSans'" font-size="7.68">Mörby centrum</text>
 	<text transform="matrix(1 0 0 1 541.7266 106.5791)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T13</text>
 	<text transform="matrix(1 0 0 1 558.5703 105.5088)" font-family="'OpenSans'" font-size="7.68">Ropsten</text>
-	<text transform="matrix(1 0 0 1 93.1489 433.3604)" font-family="'SLGothicText-Bold'" font-size="5.76">Alby</text>
-	<text transform="matrix(1 0 0 1 75.1567 451.2275)" font-family="'SLGothicText-Bold'" font-size="5.76">Hallunda</text>
-	<text transform="matrix(1 0 0 1 234.5239 292.1885)" font-family="'SLGothicText-Bold'" font-size="5.76">Mälarhöjden</text>
-	<text transform="matrix(1 0 0 1 217.9692 309.4619)" font-family="'SLGothicText-Bold'" font-size="5.76">Bredäng</text>
-	<text transform="matrix(1 0 0 1 199.8442 327.04)" font-family="'SLGothicText-Bold'" font-size="5.76">Sä</text>
-	<text transform="matrix(1 0 0 1 206.0396 327.04)" font-family="'SLGothicText-Bold'" font-size="5.76">tra</text>
-	<text transform="matrix(1 0 0 1 182.5317 344.6807)" font-family="'SLGothicText-Bold'" font-size="5.76">Skärholmen</text>
-	<text transform="matrix(1 0 0 1 164.3599 362.3213)" font-family="'SLGothicText-Bold'" font-size="5.76">V</text>
-	<text transform="matrix(1 0 0 1 167.8521 362.3213)" font-family="'SLGothicText-Bold'" font-size="5.76">årberg</text>
-	<text transform="matrix(1 0 0 1 146.2896 379.9541)" font-family="'SLGothicText-Bold'" font-size="5.76">V</text>
-	<text transform="matrix(1 0 0 1 149.7896 379.9541)" font-family="'SLGothicText-Bold'" font-size="5.76">årby </text>
-	<text transform="matrix(1 0 0 1 162.188 379.9541)" font-family="'SLGothicText-Bold'" font-size="5.76">gård</text>
-	<text transform="matrix(1 0 0 1 129.4224 397.9697)" font-family="'SLGothicText-Bold'" font-size="5.76">Masmo</text>
-	<text transform="matrix(1 0 0 1 110.8755 415.6104)" font-family="'SLGothicText-Bold'" font-size="5.76">Fittja</text>
+	<text transform="matrix(1 0 0 1 93.1489 433.3604)" font-family="'OpenSans'" font-size="5.76">Alby</text>
+	<text transform="matrix(1 0 0 1 75.1567 451.2275)" font-family="'OpenSans'" font-size="5.76">Hallunda</text>
+	<text transform="matrix(1 0 0 1 234.5239 292.1885)" font-family="'OpenSans'" font-size="5.76">Mälarhöjden</text>
+	<text transform="matrix(1 0 0 1 217.9692 309.4619)" font-family="'OpenSans'" font-size="5.76">Bredäng</text>
+	<text transform="matrix(1 0 0 1 199.8442 327.04)" font-family="'OpenSans'" font-size="5.76">Sätra</text>
+	<text transform="matrix(1 0 0 1 182.5317 344.6807)" font-family="'OpenSans'" font-size="5.76">Skärholmen</text>
+	<text transform="matrix(1 0 0 1 164.3599 362.3213)" font-family="'OpenSans'" font-size="5.76">Vårberg</text>
+	<text transform="matrix(1 0 0 1 146.2896 379.9541)" font-family="'OpenSans'" font-size="5.76">Vårby gård</text>
+	<text transform="matrix(1 0 0 1 129.4224 397.9697)" font-family="'OpenSans'" font-size="5.76">Masmo</text>
+	<text transform="matrix(1 0 0 1 110.8755 415.6104)" font-family="'OpenSans'" font-size="5.76">Fittja</text>
 	<text transform="matrix(1 0 0 1 333.813 473.1182)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T19</text>
 	<text transform="matrix(1 0 0 1 351.8052 473.3057)" font-family="'OpenSans'" font-size="7.68">Hagsätra</text>
 	<text transform="matrix(1 0 0 1 627.7656 473.1416)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T17</text>
 	<text transform="matrix(1 0 0 1 645.9688 473.2041)" font-family="'OpenSans'" font-size="7.68">Skarpnäck</text>
-	<text transform="matrix(1 0 0 1 117.1489 473.2588)" fill="#FFFFFF" font-family="'SLGothicTimetable-Bold'" font-size="7.424">T14</text>
-	<text transform="matrix(1 0 0 1 135.1958 473.2744)" font-family="'SLGothicText-Bold'" font-size="7.68">Fruängen</text>
+	<text transform="matrix(1 0 0 1 117.1489 473.2588)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T14</text>
+	<text transform="matrix(1 0 0 1 135.1958 473.2744)" font-family="'OpenSans'" font-size="7.68">Fruängen</text>
 	<text transform="matrix(1 0 0 1 255.8833 184.8916)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T18</text>
 	<text transform="matrix(1 0 0 1 455.6641 358.3682)" font-family="'OpenSans'" font-size="5.76">Enskede gård</text>
 	<text transform="matrix(1 0 0 1 442.7422 371.1025)" font-family="'OpenSans'" font-size="5.76">Sockenplan</text>
@@ -261,11 +253,10 @@
 	<text transform="matrix(1 0 0 1 406.4297 407.3213)" font-family="'OpenSans'" font-size="5.76">Stureby</text>
 	<text transform="matrix(1 0 0 1 391.3906 422.6416)" font-family="'OpenSans'" font-size="5.76">Bandhagen</text>
 	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 295.3706 182.2988)" font-family="'OpenSans'" font-size="5.76">Kristineberg</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 263.8086 275.2363)" font-family="'SLGothicText-Bold'" font-size="5.76">Örnsberg</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 244.1357 275.2275)" font-family="'SLGothicText-Bold'" font-size="5.76">Ax</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 248.5933 270.7734)" font-family="'SLGothicText-Bold'" font-size="5.76">elsberg</text>
-	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 285.1699 274.835)" font-family="'SLGothicText-Bold'" font-size="5.76">Aspudden</text>
-	<text transform="matrix(1 0 0 1 46.1099 473.1338)" fill="#FFFFFF" font-family="'SLGothicTimetable-Bold'" font-size="7.424">T13</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 263.8086 275.2363)" font-family="'OpenSans'" font-size="5.76">Örnsberg</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 244.1357 275.2275)" font-family="'OpenSans'" font-size="5.76">Axelsberg</text>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 285.1699 274.835)" font-family="'OpenSans'" font-size="5.76">Aspudden</text>
+	<text transform="matrix(1 0 0 1 46.1099 473.1338)" fill="#FFFFFF" font-family="'OpenSans'" font-size="7.424">T13</text>
 	<text transform="matrix(1 0 0 1 495.7578 171.1807)" font-family="'OpenSans'" font-size="5.76">Östermalmstorg</text>
 	<text transform="matrix(1 0 0 1 533.6016 130.8213)" font-family="'OpenSans'" font-size="5.76">Gärdet</text>
 	<text transform="matrix(1 0 0 1 514.1016 151.0479)" font-family="'OpenSans'" font-size="5.76">Karlaplan</text>
@@ -279,6 +270,6 @@
 	<text transform="matrix(1 0 0 1 499.5938 420.6025)" font-family="'OpenSans'" font-size="5.76">Gubbängen</text>
 	<text transform="matrix(1 0 0 1 499.5938 435.9697)" font-family="'OpenSans'" font-size="5.76">Hökarängen</text>
 	<text transform="matrix(1 0 0 1 499.5938 451.665)" font-family="'OpenSans'" font-size="5.76">Farsta</text>
-	<text transform="matrix(1 0 0 1 63.8833 473.1494)" font-family="'SLGothicText-Bold'" font-size="7.68">Norsborg</text>
+	<text transform="matrix(1 0 0 1 63.8833 473.1494)" font-family="'OpenSans'" font-size="7.68">Norsborg</text>
 </g>
 </svg>
